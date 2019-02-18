@@ -1,6 +1,6 @@
 # java2c
 
-A transpiler to convert Java to C source.
+Преобразования Java-кода в C-код.
 
 Obviously, this isn't perfect. Currently, it's designed to use a subset of java - a dialect.
 
